@@ -2452,7 +2452,7 @@ function display_time {
 echo ""
 echo " ========================================"
 echo ""
-echo "  Script made by Matteo Polak for Altron"
+echo "  Script made by Matteo Polak for Plagueware"
 echo ""
 printf "     This script executed in "
 display_time $SECONDS
